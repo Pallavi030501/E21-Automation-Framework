@@ -81,6 +81,8 @@ public class AddToCart extends BaseClass
 		String productincart =cp.captureItemName();
 		Assert.assertEquals(productincart,PRODUCTNAME);
 		System.out.println(productincart);
+		System.out.println(productincart);
+		
 
 	}
 	
